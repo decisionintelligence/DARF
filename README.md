@@ -15,7 +15,7 @@ Here is the code for the paper DARF.
 ## Running
 	python3 run.py
 
-## Citing Pathformer
+## Citing
 If you find this resource helpful, please consider to cite our research:
 
 ```
